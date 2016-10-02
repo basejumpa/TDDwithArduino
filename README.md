@@ -11,7 +11,7 @@ I created the lessions  Arduino Nanos](https://www.arduino.cc/en/Main/ArduinoBoa
 ## Prerequisites:
 * Hardware
    * Two Arduino devices
-   * Full Breadboard
+   * Full breadboard
    * Jump wires
    * One Resistor 220Ohm
    * One LED
@@ -21,3 +21,8 @@ I created the lessions  Arduino Nanos](https://www.arduino.cc/en/Main/ArduinoBoa
    * Install the [arduinoUnit](https://github.com/mmurdoch/arduinounit)
 
 
+## Usage
+* Begin with session00
+* Build up the breadboard as shown in the Fritzing-file
+* Download the sketch(es) onto the device(s).
+* After understanding the session go on with then next higher session.
