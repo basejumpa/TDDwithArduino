@@ -6,7 +6,7 @@ The item-under-test (IUT) is an other Arduino.
 
 Step by step lessions.
 
-I created the lessions  Arduino Nanos](https://www.arduino.cc/en/Main/ArduinoBoardNano).
+I created the lessions  [Arduino Nanos](https://www.arduino.cc/en/Main/ArduinoBoardNano).
 
 ## Prerequisites:
 * Hardware
